@@ -1,0 +1,785 @@
+@media (max-width: 1399px) {
+	
+
+}
+
+/*<!-- /////////////// -->*/
+
+@media (max-width: 1199px) {
+
+	.header .top-section .head-image {
+		padding-top: 70px;
+		padding-bottom: 60px;
+
+	}
+	.header .top-section .head-image img {
+		width: 100%;
+		height: 400px;
+	}
+	.header .top-section .head-title {
+		padding-top: 170px;
+	}
+		/*////////////////*/
+	.about-dayrise .about-dayrise-head img {
+		width: 58%;
+		margin-top: 5px;
+	}
+	.card-area .card .card-body h2 {
+		font-size: 18px;
+		font-weight: 600;
+		font-family: Montserrat-Medium ;
+		margin: 20px 0px 10px 0px;
+	}
+	.card-area  #card-box {
+		padding-bottom: 54px;
+	}
+	.formula .formula-head img {
+		width: 50%;
+		margin-top: 5px;
+	}
+	.formula .formula-image-area {
+		width: 100%;
+		background-image: url('../images/formula.png');
+		background-repeat: no-repeat;
+		background-size: 322px 307px;
+		background-position: center;
+	}
+	.formula .formula-image-area .formula-image-box1 .vitamin-c {
+		width: 200px;
+		text-align: center;
+		position: absolute;
+		left: 170px;
+	}
+	.formula .formula-image-area .formula-image-box2 .fulvic {
+		width: 200px;
+		text-align: center;
+		position: absolute;
+		left: 128px;
+	}
+	.formula .formula-image-area .formula-image-box3 .vitamin-d {
+		width: 200px;
+		text-align: center;
+		position: absolute;
+		left: 100px;
+	}
+	.formula .formula-image-area .formula-image-box4 .aandro {
+		width: 200px;
+		text-align: center;
+		position: absolute;
+		left: 186px;
+	}
+	.formula .formula-image-area .formula-image-box5 .oliveleaf {
+		width: 200px;
+		text-align: center;
+		position: absolute;
+		left: 170px;
+	}
+	.formula .formula-image-area .formula-image-box6 .zinc {
+		width: 200px;
+		text-align: center;
+		position: absolute;
+		left: 128px;
+	}
+	/*///////////////*/
+	.question .question-box2 {
+		background-color: #f6f7f9;
+		padding: 0px 10px;
+	}
+	.question .question-box2 .accordion .accordion-item h2 {
+		font-size: 12px;
+		font-family: Montserrat-Medium ;
+		color: #000;
+		cursor: pointer;
+		margin-bottom: 0px;
+		padding-top: 20px ;
+		padding-bottom: 20px;
+
+	}
+	.question .question-box2 .accordion .accordion-item .accordion-body {
+		font-size: 12px;
+		padding: 0px 25px;
+		color: #808080;
+		margin-bottom: 15px;
+	}
+	/*///////////////*/
+	.conclusion .conclusion-area .conclusion-box1 {
+		margin-left: 150px;
+	}
+	.conclusion .shipping .plane {
+		width: 55px;
+		height: 55px;
+		background-color: #fff;
+		border-radius: 50%;
+		float: left;
+		position: relative;
+	}
+	.conclusion .shipping .content {
+		width: 80%;
+		margin-left: 70px;
+	}
+	.conclusion .shipping .content h3 {
+		font-size: 16px;
+		font-family: Montserrat-Medium ;
+		color: #fff;
+	}
+	.conclusion .shipping .content p {
+		font-size: 11px;
+		font-family: Montserrat-Medium ;
+		color: #fff;
+		margin-bottom: 0px;
+	}
+	.conclusion .conclusion-area .conclusion-box2 img {
+		width: 260px;
+		height: 245px;
+		position: absolute;
+		top: 0px;
+		right: 0px;
+		bottom: 0px;
+		margin: auto;
+	}
+		/*///////////////*/
+	.footer .top-footer .news  h2 {
+		font-size: 28px;
+		font-family: Montserrat-Medium ;
+		color: #fff;
+		margin-bottom: 0px;
+	}
+	.footer .top-footer .news  p {
+		font-size: 11px;
+		font-family: Montserrat-Medium ;
+		color: #fff;
+		margin-bottom: 0px;
+	}
+	.footer .top-footer .inputform .input-group input {
+		width: 85%;
+		border: none;
+		padding: 26px 22px;
+	}
+	.footer .top-footer .inputform .input-group span {
+		width: 13%;
+	}
+	.footer .mid-footer h4 {
+		font-size: 10px;
+		color: #fff;
+		font-family: Montserrat-Medium  ;
+	}
+	.footer .mid-footer ul li a {
+		font-size: 10px;
+		color: #fff;
+		font-family: Montserrat-Medium  ;
+		text-decoration: none;
+
+	}
+	.footer .bottom-footer .paycard {
+		width: 60%;
+		margin-left: 127px;
+	}
+}
+
+
+/*<!-- /////////////// -->*/
+
+@media (max-width: 991px) {
+	
+	.header .top-section .head-title h1 {
+		color: #000;
+		font-size: 25px;
+		line-height: 35px;
+		font-family: Montserrat-Bold;
+		margin-bottom: 15px;
+	}
+	.header .top-section .head-image {
+		padding-top: 60px;
+		padding-bottom: 50px;
+
+	}
+	.header .top-section .head-image img {
+		width: 100%;
+		height: 340px;
+	}
+	.header .top-section .head-title ul li {
+		margin-bottom: 10px;
+		color: #fff;
+		font-size: 13px;
+	}
+	.header .top-section .head-title ul li img {
+		width: 19px;
+		margin-right: 10px;
+	}
+
+
+	.card-area {
+		margin-right: 10px;
+		margin-left: 10px;
+		margin-bottom: 45px;
+	}
+	.card-area .card .card-body img {
+		width: 70px;
+	}
+	.card-area .card .card-body h2 {
+		font-size: 16px;
+		font-weight: 600;
+		font-family: Montserrat-Medium ;
+		margin: 20px 0px 10px 0px;
+	}
+	.formula .formula-image-area {
+		width: 100%;
+		background-image: url('../images/formula.png');
+		background-repeat: no-repeat;
+		background-size: 266px 288px;
+		background-position: center;
+	}
+	.formula .formula-image-area .formula-image-box1 .vitamin-c {
+		width: 200px;
+		text-align: center;
+		position: absolute;
+		left: 63px;
+	}
+	.formula .formula-image-area .formula-image-box2 .fulvic {
+		width: 200px;
+		text-align: center;
+		position: absolute;
+		left: 117px;
+	}
+	.formula .formula-image-area .formula-image-box3 .vitamin-d {
+		width: 200px;
+		text-align: center;
+		position: absolute;
+		left: 0px;
+	}
+	.formula .formula-image-area .formula-image-box4 .aandro {
+		width: 200px;
+		text-align: center;
+		position: absolute;
+		left: 146px;
+	}
+	.formula .formula-image-area .formula-image-box5 .oliveleaf {
+		width: 200px;
+		text-align: center;
+		position: absolute;
+		left: 63px;
+	}
+	.formula .formula-image-area .formula-image-box6 .zinc {
+		width: 200px;
+		text-align: center;
+		position: absolute;
+		left: 117px;
+	}
+	/*///////////////*/
+	.question .question-box1 {
+		margin-right: 0px;
+	}
+	/*///////////////*/
+	.conclusion .conclusion-area .conclusion-box1 {
+		margin-left: 0px;
+	}
+
+}
+
+/*<!-- /////////////// -->*/
+
+@media all and (max-width: 767px) {
+
+
+	.header .menu .header-logo h2 {
+		font-size: 30px;
+		margin-bottom: 0px;
+		margin-top: 10px;
+	}
+	.header .menu .header-icon a i {
+		font-size: 16px;
+		color: #000;
+		margin-left: 15px;
+	}
+	.header .top-section .head-image {
+		padding-top: 115px;
+		padding-bottom: 50px;
+
+	}
+	.header .top-section .head-image img {
+		width: 100%;
+		height: 260px;
+	}
+	.header .top-section .head-title h1 {
+		color: #000;
+		font-size: 20px;
+		line-height: 30px;
+		font-family: Montserrat-Bold;
+		margin-bottom: 15px;
+	}
+	.header .top-section .head-title {
+		padding-top: 165px;
+	}
+
+
+
+
+
+	.about-dayrise .about-dayrise-head img {
+		width: 51%;
+		margin-top: 5px;
+	}
+	.card-area {
+		margin-right: 5px;
+		margin-left: 5px;
+		margin-bottom: 35px;
+	}
+	.card-area  #card-box {
+		padding-bottom: 60px;
+	}
+	.card-area .card .card-body img {
+		width: 55px;
+	}
+	.card-area .card .card-body h2 {
+		font-size: 14px;
+		font-weight: 600;
+		font-family: Montserrat-Medium ;
+		margin: 15px 0px 10px 0px;
+	}
+	.card-area .card .card-body p {
+		font-size: 10px;
+		font-weight: 700;
+		margin-bottom: 0px;
+		color: #7e7e7e;
+		padding: 0px 10px;
+	}
+	.card-area .card {
+		padding: 0px 0px;
+		border: 1px solid #e6e6e6;
+		box-shadow: 0 0 0 !important;
+	}
+	.formula .formula-head img {
+		width: 44%;
+		margin-top: 5px;
+	}
+	.formula .formula-image-area {
+		width: 100%;
+		background-image: url('');
+	}
+	.formula .formula-image-area .formula-image-box1 .vitamin-c {
+		width: 200px;
+		text-align: center;
+		position: absolute;
+		left: 66px;
+	}
+	.formula .formula-image-area .formula-image-box2 .fulvic {
+		width: 200px;
+		text-align: center;
+		position: absolute;
+		left: 0px;
+	}
+	.formula .formula-image-area .formula-image-box3 .vitamin-d {
+		width: 200px;
+		text-align: center;
+		position: absolute;
+		left: 66px;
+	}
+	.formula .formula-image-area .formula-image-box4 .aandro {
+		width: 200px;
+		text-align: center;
+		position: absolute;
+		left: 0px;
+	}
+	.formula .formula-image-area .formula-image-box5 .oliveleaf {
+		width: 200px;
+		text-align: center;
+		position: absolute;
+		left: 66px;
+	}
+	.formula .formula-image-area .formula-image-box6 .zinc {
+		width: 200px;
+		text-align: center;
+		position: absolute;
+		left: 0px;
+	}
+	/*///////////////*/
+	.question {
+		padding: 80px 0px;
+	}
+	.question .question-box1 {
+		margin-right: 0px;
+		margin-bottom: 40px;
+	}
+	.question .question-box2 .accordion .last-item {
+		border-bottom: 1px solid transparent;
+	}
+	/*///////////////*/
+	.conclusion .conclusion-area .conclusion-box2 img {
+		width: 200px;
+		height: 220px;
+		position: absolute;
+		top: 0px;
+		right: 0px;
+		bottom: 0px;
+		margin: auto;
+	}
+	.footer .top-footer .news  h2 {
+		font-size: 23px;
+		font-family: Montserrat-Medium ;
+		color: #fff;
+		margin-bottom: 0px;
+	}
+	.footer .top-footer .news  p {
+		font-size: 10px;
+		font-family: Montserrat-Medium ;
+		color: #fff;
+		margin-bottom: 0px;
+	}
+	.footer .top-footer .inputform .input-group input {
+		width: 85%;
+		border: none;
+		padding: 20px 14px;
+		font-size: 12px;
+	}
+	.footer .top-footer .inputform .input-group i {
+		color: #ffcd94;
+		font-size: 16px;
+		margin-top: 11px;
+		padding: 0px 10px;
+	}
+	
+	.mid-foot-box1 {
+		margin-bottom: 15px;
+	}
+	.footer .bottom-footer .paycard {
+		width: 60%;
+		margin-left: 97px;
+	}
+
+
+}
+
+/*<!-- /////////////// -->*/
+
+@media (max-width: 575px) {
+
+	.header .menu .header-menu nav ul li #nav-item-first {
+		padding: 10px 10px;
+	}
+	.header .menu .header-menu {
+		width: 30%;
+	}
+	.header .menu .header-logo {
+		width: 40%;
+	}
+	.header .menu .header-icon {
+		width: 30%;
+	}
+	.header .top-section .head-title {
+		padding-top: 60px;
+		width: 90%;
+		margin: auto;
+		text-align: center;
+	}
+	.header .top-section .head-title ul li i {
+		display: inline-block;
+		margin-right: 10px;
+	}
+	.header .top-section .head-title ul li img {
+		display: none;
+	}
+	.header .top-section .head-title ul li {
+		margin-bottom: 10px;
+		color: #000;
+		font-size: 14px;
+	}
+	.header .top-section .head-image {
+		padding-top: 30px;
+		padding-bottom: 60px;
+
+	}
+	.header .top-section .head-image img {
+		width: 70%;
+		height: 350px;
+		margin-left: 60px;
+	}
+
+
+
+
+
+
+	.about-dayrise .about-dayrise-head h2 {
+		font-family: Montserrat-Bold;
+		font-size: 25px;
+		margin-bottom: 0px;
+	}
+	.about-dayrise .about-dayrise-head p {
+		font-family: Montserrat-Regular;
+  	  	font-size: 12px;
+   	 	line-height: 22px;
+   	 	margin-bottom: 65px;
+	}
+	.about-dayrise .about-dayrise-head img {
+		width: 34%;
+		margin-top: 5px;
+	}
+	.card-area {
+		margin-right: 0px;
+		margin-left: 0px;
+		margin-bottom: 35px;
+	}
+	.card-area .card .card-body img {
+		width: 60px;
+	}
+	.card-area .card .card-body h2 {
+		font-size: 16px;
+		font-weight: 600;
+		font-family: Montserrat-Medium ;
+		margin: 15px 0px 10px 0px;
+	}
+	.card-area .card .card-body p {
+		font-size: 12px;
+		font-weight: 700;
+		margin-bottom: 0px;
+		color: #7e7e7e;
+		padding: 0px 10px;
+	}
+	.card-area .card {
+		padding: 0px 0px;
+		border: 1px solid #e6e6e6;
+		box-shadow: 0 0 0 !important;
+	}
+	.formula .formula-head h2 {
+		font-family: Montserrat-Bold;
+		font-size: 25px;
+		margin-bottom: 0px;
+	}
+	.formula .formula-head img {
+		width: 30%;
+		margin-top: 5px;
+	}
+	.formula .formula-head p {
+		font-family: Montserrat-Bold ;
+		font-size: 12px;
+		margin-bottom: 0px;
+		padding-bottom: 35px;
+	}
+	.formula .formula-image-area .formula-image-box1 .vitamin-c {
+		width: 200px;
+		text-align: center;
+		position: absolute;
+		left: 0px;
+		right: 0px;
+		margin: auto;
+	}
+	.formula .formula-image-area .formula-image-box2 .fulvic {
+		width: 200px;
+		text-align: center;
+		position: absolute;
+		left: 0px;
+		right: 0px;
+		margin: auto;
+	}
+	.formula .formula-image-area .formula-image-box3 .vitamin-d {
+		width: 200px;
+		text-align: center;
+		position: absolute;
+		left: 0px;
+		right: 0px;
+		margin: auto;
+	}
+	.formula .formula-image-area .formula-image-box4 .aandro {
+		width: 200px;
+		text-align: center;
+		position: absolute;
+		left: 0px;
+		right: 0px;
+		margin: auto;
+	}
+	.formula .formula-image-area .formula-image-box5 .oliveleaf {
+		width: 200px;
+		text-align: center;
+		position: absolute;
+		left: 0px;
+		right: 0px;
+		margin: auto;
+	}
+	.formula .formula-image-area .formula-image-box6 .zinc {
+		width: 200px;
+		text-align: center;
+		position: absolute;
+		left: 0px;
+		right: 0px;
+		margin: auto;
+	}
+	.formula .formula-image-area .formula-image-box1 {
+		height: 95px;
+		position: relative;
+	}
+	.formula .formula-image-area .formula-image-box3 {
+		height: 95px;
+		position: relative;
+	}
+	.formula .formula-image-area .formula-image-box5 {
+		height: 95px;
+		position: relative;
+	}
+	.promise {
+		padding: 70px 0px;
+	}
+	.promise .promise-area h2 {
+		font-size: 25px;
+		margin-bottom: 25px;
+		font-family: Montserrat-Medium ;
+	}
+	.testimonial-area {
+		height: 250px;
+		margin-bottom: 50px;
+	}
+	.testimonial {
+		padding: 40px 0px;
+	}
+	.testimonial .testimonial-head  h2 {
+		font-size: 25px;
+		margin-bottom: 15px;
+		font-family: Montserrat-Medium ;
+		color: #fff;
+	}
+	/*///////////////*/
+	.question {
+		padding: 70px 0px;
+	}
+	.question .question-head  h2 {
+		font-size: 25px;
+		font-family: Montserrat-Medium ;
+	}
+	.question .question-box1 {
+		margin-right: 0px;
+		margin-bottom: 40px;
+		width: 80%;
+	}
+	.question .question-box2 {
+		background-color: #f6f7f9;
+		padding: 0px 10px;
+		width: 80%;
+	}
+	/*///////////////*/
+	.conclusion .conclusion-area .conclusion-box1 {
+		margin-left: 0px;
+		width: 80%;
+		margin: auto;
+		margin-bottom: 30px;
+	}
+	.conclusion .conclusion-area .conclusion-box2 {
+		position: unset;
+		width: 45%;
+		margin: auto;
+	}
+	.conclusion .conclusion-area .conclusion-box2 img {
+		width: 100%;
+		height: 100%;
+		position: unset;
+		
+	}
+	.conclusion {
+		padding-bottom: 50px;
+	}
+	.footer {
+		background-image: url('');
+		background-color: #ffcd94;
+	}
+	.footer .top-footer .news {
+		width: 80%;
+		margin: auto;
+		margin-bottom: 10px;
+	}
+	.footer .inputform {
+		width: 80%;
+		margin: auto;
+	}
+	.mid-foot-box1 {
+		
+		width: 80%;
+		margin: auto;
+		margin-bottom: 15px;
+	}
+	.mid-foot-box2 {
+		width: 80%;
+		margin: auto;
+		margin-bottom: 15px;
+		
+	}
+	.bottom-foot-box1 {
+		width: 80%;
+		margin-bottom: 10px;
+	}
+	.bottom-foot-box2 {
+		width: 80%;
+	}
+	.footer .bottom-footer .paycard {
+		width: 50%;
+		margin-left: 0px;
+	}
+	
+}
+
+
+
+
+
+/*<!-- /////////////// -->*/ 
+
+@media (max-width: 475px) {
+
+	.header .top-section .head-image img {
+		width: 80%;
+		height: 330px;
+		margin-left: 20px;
+	}
+
+	.about-dayrise {
+		padding-top: 50px;
+		padding-bottom: 10px;
+	}
+	.about-dayrise .about-dayrise-head img {
+		width: 42%;
+		margin-top: 5px;
+	}
+	.formula .formula-head img {
+   	 	width: 35%;
+   	 	margin-top: 5px;
+	}
+	.mid-foot-box1 {
+		
+		width: 80%;
+		margin: auto;
+		margin-bottom: 15px;
+	}
+	.mid-foot-box2 {
+		width: 80%;
+		margin: auto;
+		margin-bottom: 15px;
+		
+	}
+}
+
+/*<!-- /////////////// -->*/ 
+@media (max-width: 414px) {
+
+
+	/*///////////////*/
+	.question .question-box2 .accordion .accordion-item h2 {
+		font-size: 11px;
+		font-family: Montserrat-Medium ;
+		color: #000;
+		cursor: pointer;
+		margin-bottom: 0px;
+		padding-top: 20px ;
+		padding-bottom: 20px;
+
+	}
+	.question .question-box2 .accordion .accordion-item .accordion-body {
+		font-size: 11px;
+		padding: 0px 25px;
+		color: #808080;
+		margin-bottom: 15px;
+	}
+}
+
+/*<!-- /////////////// -->*/ 
+@media (max-width: 375px) {
+
+
+}
+
